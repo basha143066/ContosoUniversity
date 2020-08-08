@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>ftps://waws-prod-dm1-027.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATN7G9Y/EzkC8GukMpIbEfgAAAAACAAAAAAAQZgAAAAEAACAAAAD22Vkeo28OYMNQ2XUMhiRB39dCYyRzoaXhAKT1jTufsQAAAAAOgAAAAAIAACAAAADAD4ESEnoDZT5ciwzneOBo8mAZtv9U0pY7rZMkuj0RPyAAAAD+oJ4xvA8T7VzzEz3ksqdAjhV/e8+N/5kuFwvIbC2P2EAAAADNzUcSj0EGnbwPniLdJljfwuo384U8qODlvU/mbEFySnNlpEwxzfSW1X7A7z1lhajNHTuuM8pJNCNKHUGSqG18</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="bin/ContosoUniversity.dll">
+      <publishTime>08/08/2020 06:32:59</publishTime>
+    </File>
+    <File Include="bin/ContosoUniversity.pdb">
+      <publishTime>08/08/2020 06:32:59</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>11/06/2015 00:21:51</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>11/06/2015 00:21:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/06/2015 00:02:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/06/2015 00:02:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>11/06/2015 00:01:57</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>11/06/2015 00:01:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/06/2015 00:01:58</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/06/2015 00:21:52</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>11/06/2015 00:02:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>11/06/2015 00:02:10</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>11/06/2015 00:02:09</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>11/06/2015 00:01:58</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>11/06/2015 00:01:58</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>11/06/2015 00:16:37</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>11/06/2015 00:01:58</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>11/06/2015 00:10:27</publishTime>
+    </File>
+    <File Include="Views/Student/Create.cshtml">
+      <publishTime>11/06/2015 01:19:29</publishTime>
+    </File>
+    <File Include="Views/Student/Delete.cshtml">
+      <publishTime>11/06/2015 01:19:29</publishTime>
+    </File>
+    <File Include="Views/Student/Details.cshtml">
+      <publishTime>11/07/2015 11:37:55</publishTime>
+    </File>
+    <File Include="Views/Student/Edit.cshtml">
+      <publishTime>11/06/2015 01:19:30</publishTime>
+    </File>
+    <File Include="Views/Student/Index.cshtml">
+      <publishTime>11/06/2015 01:19:30</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>11/06/2015 00:01:58</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>11/06/2015 00:01:58</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/08/2020 06:32:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
